@@ -1,0 +1,9 @@
+Shape: 1x2
+printHead(10, 10)
+label 1x1
+0 10
+dataset.drop(0,0)
+label 1x1
+Dataset temp1 = dataset;
+label 1x1
+columns: label 1x1

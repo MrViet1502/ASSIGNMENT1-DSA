@@ -1,0 +1,13 @@
+getShape
+columns
+printHead 1 -2
+printHead -1 1
+printHead 0 1
+printHead 1 0
+printHead 1 1
+printHead 2 2
+printHead 1 2
+printHead 2 1
+printHead 3 4
+printHead 4 8
+printHead 10 10

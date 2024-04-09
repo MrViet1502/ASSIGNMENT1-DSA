@@ -1,0 +1,28 @@
+Line 1 getShape : 3 7
+Line 2 columns : lable 1x1 1x2 1x3 2x1 2x2 2x3Line 3 printTail 1 -2
+Line 4 printTail -1 1
+Line 5 printTail 0 1
+Line 6 printTail 1 0
+Line 7 printTail 1 1
+2x3
+3Line 8 printTail 2 2
+2x2 2x3
+5 6
+3 3Line 9 printTail 1 2
+2x2 2x3
+3 3Line 10 printTail 2 1
+2x3
+6
+3Line 11 printTail 3 4
+1x3 2x1 2x2 2x3
+4 2 0 3
+0 2 5 6
+0 0 3 3Line 12 printTail 4 8
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+1 0 3 4 2 0 3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3Line 13 printTail 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+1 0 3 4 2 0 3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3

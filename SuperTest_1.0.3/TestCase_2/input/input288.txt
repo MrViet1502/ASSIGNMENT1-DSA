@@ -1,0 +1,180 @@
+getShape
+columns
+printHead 100 100
+printHead 100 100
+extract 9 20 9 18 
+printHead 100 100
+extract 1 8 8 8 
+printHead 100 100
+extract 10 18 2 16 
+printTail 5 13
+columns
+printHead 100 100
+drop 1 10 1x0 
+printHead 100 100
+printHead 100 100
+extract 9 12 6 17 
+printHead 100 100
+drop 0 11 1x6 
+printHead 100 100
+printHead 100 100
+extract 3 14 1 4 
+printHead 100 100
+extract 1 12 5 5 
+getShape
+printHead 100 100
+drop -1 9 1x10 
+printHead 100 100
+columns
+printHead 10 1
+Dataset
+printHead 100 100
+extract 0 1 3 11 
+printHead 100 100
+drop 0 5 1x2 
+printHead 100 100
+printHead 3 7
+printHead 0 -1
+printHead 100 100
+extract 2 6 8 9 
+printHead 100 100
+drop 0 9 1x10 
+printHead 100 100
+printHead 100 100
+extract 2 11 5 6 
+printHead 0 3
+operator=
+printHead 100 100
+extract 8 15 0 12 
+operator=
+printHead 100 100
+drop 0 -1 1x-1 
+printHead 100 100
+printHead 100 100
+drop 1 1 1x10 
+printHead 100 100
+printHead 100 100
+extract 0 7 4 9 
+columns
+Dataset
+printTail 14 7
+printHead 100 100
+extract 10 11 7 19 
+printHead 100 100
+extract 5 10 3 16 
+getShape
+printHead 100 100
+extract 5 9 6 11 
+printHead 100 100
+drop -1 7 1x5 
+printHead 100 100
+printHead 100 100
+extract 5 10 9 6 
+printHead 100 100
+drop 0 1 1x-1 
+printHead 100 100
+columns
+columns
+printHead 6 5
+printHead 6 3
+columns
+printHead 9 9
+printHead 100 100
+extract 5 15 6 8 
+printHead 100 100
+extract 7 10 1 15 
+printHead 100 100
+extract 5 9 0 10 
+printTail 6 0
+printHead 100 100
+extract 8 13 5 13 
+printHead 100 100
+drop 1 2 1x10 
+printHead 100 100
+printHead 100 100
+extract 4 13 5 13 
+printHead 100 100
+drop -1 4 1x7 
+printHead 100 100
+Dataset
+operator=
+Dataset
+printHead 100 100
+extract 6 11 6 7 
+printHead 100 100
+drop 0 11 1x4 
+printHead 100 100
+printHead 100 100
+extract 0 3 9 5 
+printHead 100 100
+extract 6 8 9 16 
+columns
+printTail 3 1
+printHead 100 100
+drop 0 5 1x5 
+printHead 100 100
+Dataset
+printHead 100 100
+extract 10 18 4 11 
+Dataset
+Dataset
+printHead 100 100
+extract 5 12 6 8 
+printHead 100 100
+drop 0 7 1x5 
+printHead 100 100
+printTail 10 0
+Dataset
+columns
+printHead 100 100
+drop 0 8 1x6 
+printHead 100 100
+printHead 100 100
+drop -2 10 1x-1 
+printHead 100 100
+operator=
+printTail 5 0
+printHead 100 100
+extract 9 18 10 19 
+printHead 100 100
+extract 2 7 8 7 
+columns
+printHead 100 100
+drop 0 1 1x1 
+printHead 100 100
+printHead 100 100
+drop 1 1 1x0 
+printHead 100 100
+printHead 100 100
+drop -1 4 1x0 
+printHead 100 100
+printHead 2 9
+printHead -1 15
+getShape
+printHead 100 100
+extract 6 9 10 8 
+printHead 100 100
+extract 3 9 2 7 
+printHead 100 100
+extract 3 10 7 10 
+getShape
+columns
+operator=
+printHead -1 8
+Dataset
+printTail 8 3
+printHead 100 100
+drop 0 3 1x7 
+printHead 100 100
+printHead 100 100
+drop 0 7 1x1 
+printHead 100 100
+printHead 100 100
+extract 10 11 8 17 
+printHead 100 100
+drop -1 2 1x4 
+printHead 100 100
+printHead 100 100
+drop 1 1 1x3 
+printHead 100 100
+printHead 1 2

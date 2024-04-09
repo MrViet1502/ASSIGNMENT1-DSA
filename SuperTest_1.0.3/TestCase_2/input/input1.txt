@@ -1,0 +1,15 @@
+push_back 1
+print
+push_front 2
+print
+push_back 3
+print
+push_front 4
+print
+push_back 5
+push_back 6
+print
+push_front 7
+push_front 8
+length
+print

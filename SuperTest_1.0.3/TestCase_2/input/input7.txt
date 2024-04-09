@@ -1,0 +1,10 @@
+insert 0 0
+insert 1 1
+insert 2 0
+insert 3 1
+distanceEuclidean 4 1 0 1 0
+distanceEuclidean 2 1 0
+distanceEuclidean 3 1 0 1
+distanceEuclidean 5 1 0 1 0 1
+distanceEuclidean 6 1 0 1 0 1 1
+

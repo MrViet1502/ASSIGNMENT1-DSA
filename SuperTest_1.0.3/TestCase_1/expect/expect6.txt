@@ -1,0 +1,18 @@
+clear
+lenght 0
+push_back(0) : 0
+lenght 1
+remove(0) : 
+lenght 0
+print : 0 1 2 3
+lenght 4
+remove(1) : 0 2 3
+lenght 3
+remove(0) : 2 3
+lenght 2
+remove(1) : 2
+lenght 1
+remove(0) : 
+lenght 0
+remove(0) : 
+lenght 0

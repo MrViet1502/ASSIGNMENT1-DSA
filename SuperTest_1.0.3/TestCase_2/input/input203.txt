@@ -1,0 +1,13 @@
+getShape
+columns
+printTail 1 -2
+printTail -1 1
+printTail 0 1
+printTail 1 0
+printTail 1 1
+printTail 2 2
+printTail 1 2
+printTail 2 1
+printTail 3 4
+printTail 4 8
+printTail 10 10

@@ -1,0 +1,15 @@
+insert 0 1
+insert 1 0
+insert 2 2
+insert 2 3
+insert 1 4
+insert 0 7
+print
+get 0
+get -1
+get 6
+get 5
+get 4
+get 3
+get 2
+get 1

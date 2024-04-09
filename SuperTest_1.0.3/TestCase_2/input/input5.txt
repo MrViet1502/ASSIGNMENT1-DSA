@@ -1,0 +1,26 @@
+reverse
+insert 0 1
+print
+reverse
+insert 1 0
+print
+reverse
+insert 2 2
+print
+reverse
+insert 2 3
+print
+reverse
+insert 1 4
+print
+reverse
+insert 0 7
+print
+reverse
+remove 2
+print
+reverse
+remove 3
+print
+reverse
+

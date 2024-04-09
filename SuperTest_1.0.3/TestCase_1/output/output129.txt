@@ -1,0 +1,6 @@
+Shape: 1x3
+printHead(10, 10)
+label 1x1
+0 10 13
+dataset.drop(1,0,'voTien')
+FALSE

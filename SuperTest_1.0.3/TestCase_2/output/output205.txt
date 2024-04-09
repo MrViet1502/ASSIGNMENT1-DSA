@@ -1,0 +1,58 @@
+Line 1 getShape : 6 7
+Line 2 columns : lable 1x1 1x2 1x3 2x1 2x2 2x3Line 3 printHead 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+1 0 3 4 2 0 3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3
+4 0 3 4 2 0 3
+5 8 0 0 2 5 6
+6 7 3 0 0 3 3Line 4 drop 1 -1 lable : true
+Line 5 printHead 10 10
+1x1 1x2 1x3 2x1 2x2 2x3
+0 3 4 2 0 3
+8 0 0 2 5 6
+7 3 0 0 3 3
+0 3 4 2 0 3
+8 0 0 2 5 6
+7 3 0 0 3 3Line 6 drop 1 -1 2x3 : true
+Line 7 printHead 10 10
+1x1 1x2 1x3 2x1 2x2
+0 3 4 2 0
+8 0 0 2 5
+7 3 0 0 3
+0 3 4 2 0
+8 0 0 2 5
+7 3 0 0 3Line 8 drop 1 -1 1x3 : true
+Line 9 printHead 10 10
+1x1 1x2 2x1 2x2
+0 3 2 0
+8 0 2 5
+7 3 0 3
+0 3 2 0
+8 0 2 5
+7 3 0 3Line 10 drop 1 -1 1x1 : true
+Line 11 printHead 10 10
+1x2 2x1 2x2
+3 2 0
+0 2 5
+3 0 3
+3 2 0
+0 2 5
+3 0 3Line 12 drop 1 -1 2x2 : true
+Line 13 printHead 10 10
+1x2 2x1
+3 2
+0 2
+3 0
+3 2
+0 2
+3 0Line 14 drop 1 -1 1x2 : true
+Line 15 printHead 10 10
+2x1
+2
+2
+0
+2
+2
+0Line 16 drop 1 -1 2x1 : true
+Line 17 printHead 10 10

@@ -1,0 +1,11 @@
+insert 2 1
+insert -1 0
+print : insert 0 1
+print : 1insert 0 0
+print : 0 1insert 2 2
+print : 0 1 2insert 2 3
+print : 0 1 3 2insert 1 4
+print : 0 4 1 3 2length : 5
+insert 0 7
+print : 7 0 4 1 3 2clear
+print : length : 0

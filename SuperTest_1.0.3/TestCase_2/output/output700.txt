@@ -1,0 +1,31 @@
+Line 3 drop 0 9 1x1 : false
+Line 4 drop 0 5 1x1 : true
+Line 5 drop 0 -1 1x1 : false
+Line 6 drop 1 7 1x1 : true
+Line 7 drop 0 3 1x1 : true
+Line 8 drop 0 5 1x1 : true
+Line 9 drop 0 0 1x1 : true
+Line 10 drop 1 3 1x1 : false
+Line 11 getShape : 4 2
+Line 12 columns : label 1x2Line 13 printHead 100 100
+label 1x2
+8 31
+7 45
+9 45
+0 80Line X_train : 
+1x2
+31Line X_test : 
+1x2
+45
+45
+80Line y_train : 
+label
+8Line y_test : 
+label
+7
+9
+0Line y_predict : 
+label
+8
+8
+8Accuracy: 0

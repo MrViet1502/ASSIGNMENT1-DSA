@@ -1,0 +1,27 @@
+Line 3 drop 1 5 1x1 : true
+Line 4 drop 0 -1 1x1 : false
+Line 5 drop 1 -1 1x1 : false
+Line 6 drop -2 5 1x1 : false
+Line 7 drop 1 5 1x1 : false
+Line 8 drop 1 -1 1x1 : false
+Line 9 drop 0 2 1x1 : true
+Line 10 drop 1 0 1x1 : false
+Line 11 drop 1 1 1x1 : false
+Line 12 drop 0 0 1x1 : true
+Line 13 drop 0 -1 1x1 : false
+Line 14 drop 0 5 1x1 : false
+Line 15 drop -1 5 1x1 : false
+Line 16 drop -1 -1 1x1 : false
+Line 17 drop 0 1 1x1 : true
+Line 18 drop 0 4 1x1 : false
+Line 19 drop 0 1 1x1 : false
+Line 20 drop -2 2 1x1 : false
+Line 21 getShape : 1 1
+Line 22 columns : labelLine 23 printHead 100 100
+label
+0Line X_train : 
+Line X_test : 
+Line y_train : 
+Line y_test : 
+Line y_predict : 
+Accuracy: -1

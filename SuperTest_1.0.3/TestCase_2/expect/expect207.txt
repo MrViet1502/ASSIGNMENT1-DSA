@@ -1,0 +1,63 @@
+Line 1 getShape : 6 7
+Line 2 columns : VoTien VoTien1x1 VoTien1x2 VoTie1x3 2x1 2x2 2x3Line 3 printHead 10 10
+VoTien VoTien1x1 VoTien1x2 VoTie1x3 2x1 2x2 2x3
+1 0 3 4 2 0 3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3
+4 0 3 4 2 0 3
+5 8 0 0 2 5 6
+6 7 3 0 0 3 3Line 4 extract 0 -1 0 -1
+VoTien VoTien1x1 VoTien1x2 VoTie1x3 2x1 2x2 2x3
+1 0 3 4 2 0 3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3
+4 0 3 4 2 0 3
+5 8 0 0 2 5 6
+6 7 3 0 0 3 3Line 5 extract 0 1 0 -1
+VoTien VoTien1x1 VoTien1x2 VoTie1x3 2x1 2x2 2x3
+1 0 3 4 2 0 3
+2 8 0 0 2 5 6Line 6 extract 0 0 2 -1
+VoTien1x2 VoTie1x3 2x1 2x2 2x3
+3 4 2 0 3Line 7 extract 5 5 0 -1
+VoTien VoTien1x1 VoTien1x2 VoTie1x3 2x1 2x2 2x3
+6 7 3 0 0 3 3Line 8 extract 2 4 2 -1
+VoTien1x2 VoTie1x3 2x1 2x2 2x3
+3 0 0 3 3
+3 4 2 0 3
+0 0 2 5 6Line 9 extract 3 -1 0 6
+VoTien VoTien1x1 VoTien1x2 VoTie1x3 2x1 2x2 2x3
+4 0 3 4 2 0 3
+5 8 0 0 2 5 6
+6 7 3 0 0 3 3Line 10 extract 0 -1 0 0
+VoTien
+1
+2
+3
+4
+5
+6Line 11 extract 2 -1 6 6
+2x3
+3
+3
+6
+3Line 12 extract 0 -1 2 5
+VoTien1x2 VoTie1x3 2x1 2x2
+3 4 2 0
+0 0 2 5
+3 0 0 3
+3 4 2 0
+0 0 2 5
+3 0 0 3Line 13 extract 2 2 2 2
+VoTien1x2
+3Line 14 extract 2 4 2 4
+VoTien1x2 VoTie1x3 2x1
+3 0 0
+3 4 2
+0 0 2Line 15 extract 0 10 0 10
+VoTien VoTien1x1 VoTien1x2 VoTie1x3 2x1 2x2 2x3
+1 0 3 4 2 0 3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3
+4 0 3 4 2 0 3
+5 8 0 0 2 5 6
+6 7 3 0 0 3 3

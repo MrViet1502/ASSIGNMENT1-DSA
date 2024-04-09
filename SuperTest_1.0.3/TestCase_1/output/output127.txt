@@ -1,0 +1,21 @@
+columns: label 1x1 1x2
+Shape: 1x2
+printTail(10, 10)
+label 1x1
+0 10
+printTail(1, 1)
+1x1
+10
+printTail(2, 2)
+label 1x1
+0 10
+printTail(2, 4)
+label 1x1
+0 10
+printTail(20, -1)
+
+printTail(-2, 10)
+
+printTail(15, 15)
+label 1x1
+0 10

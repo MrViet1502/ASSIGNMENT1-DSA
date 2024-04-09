@@ -1,0 +1,105 @@
+Line 3 drop -1 36 1x1 : false
+Line 4 drop -1 54 1x1 : false
+Line 5 drop -2 58 1x1 : false
+Line 6 drop 1 53 1x1 : true
+Line 7 drop 1 30 1x1 : false
+Line 8 drop 0 42 1x1 : true
+Line 9 drop 0 60 1x1 : true
+Line 10 drop -1 50 1x1 : false
+Line 11 drop 1 66 1x1 : false
+Line 12 drop 1 1 1x1 : false
+Line 13 drop 1 86 1x1 : false
+Line 14 drop 0 80 1x1 : true
+Line 15 getShape : 85 1
+Line 16 columns : labelLine 17 printHead 100 100
+label
+8
+6
+0
+7
+4
+3
+5
+4
+9
+0
+4
+6
+8
+8
+9
+9
+4
+0
+0
+4
+0
+0
+3
+8
+0
+7
+5
+9
+3
+4
+4
+5
+2
+5
+7
+6
+7
+4
+8
+8
+3
+8
+3
+4
+2
+8
+3
+2
+0
+9
+5
+2
+5
+1
+4
+9
+5
+7
+1
+4
+8
+7
+1
+5
+2
+6
+8
+1
+6
+3
+3
+3
+7
+2
+1
+3
+0
+2
+5
+3
+9
+8
+0
+2
+1Line X_train : 
+Line X_test : 
+Line y_train : 
+Line y_test : 
+Line y_predict : 
+Accuracy: -1

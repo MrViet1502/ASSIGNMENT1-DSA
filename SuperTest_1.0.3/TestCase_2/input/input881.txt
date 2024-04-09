@@ -1,0 +1,6 @@
+k = 3
+test_size = 0.5
+drop 0 98 1x3 
+getShape
+columns
+printHead 200 200

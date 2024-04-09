@@ -1,0 +1,20 @@
+getShape
+columns
+printHead 10 10
+drop -1 0 1x3
+drop 0 -1 1x3
+drop 0 6 1x3
+drop 1 7 VoTien
+printHead 10 10
+drop 0 0 1x3
+printHead 10 10
+drop 0 4 1x3
+printHead 10 10
+drop 0 2 1x3
+printHead 10 10
+drop 0 2 1x3
+printHead 10 10
+drop 0 0 1x3
+printHead 10 10
+drop 0 0 1x3
+printHead 10 10

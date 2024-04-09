@@ -1,0 +1,47 @@
+Line 1 getShape : 6 7
+Line 2 columns : lable 1x1 1x2 1x3 2x1 2x2 2x3Line 3 printHead 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+1 0 3 4 2 0 3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3
+4 0 3 4 2 0 3
+5 8 0 0 2 5 6
+6 7 3 0 0 3 3Line 4 drop -1 0 1x3 : false
+Line 5 drop 0 -1 1x3 : false
+Line 6 drop 0 6 1x3 : false
+Line 7 drop 1 7 VoTien : false
+Line 8 printHead 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+1 0 3 4 2 0 3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3
+4 0 3 4 2 0 3
+5 8 0 0 2 5 6
+6 7 3 0 0 3 3Line 9 drop 0 0 1x3 : true
+Line 10 printHead 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3
+4 0 3 4 2 0 3
+5 8 0 0 2 5 6
+6 7 3 0 0 3 3Line 11 drop 0 4 1x3 : true
+Line 12 printHead 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3
+4 0 3 4 2 0 3
+5 8 0 0 2 5 6Line 13 drop 0 2 1x3 : true
+Line 14 printHead 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3
+5 8 0 0 2 5 6Line 15 drop 0 2 1x3 : true
+Line 16 printHead 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+2 8 0 0 2 5 6
+3 7 3 0 0 3 3Line 17 drop 0 0 1x3 : true
+Line 18 printHead 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3
+3 7 3 0 0 3 3Line 19 drop 0 0 1x3 : true
+Line 20 printHead 10 10
+lable 1x1 1x2 1x3 2x1 2x2 2x3

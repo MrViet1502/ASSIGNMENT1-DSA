@@ -1,0 +1,18 @@
+getShape
+columns
+printHead 10 10
+drop 1 -1 lable
+printHead 10 10
+drop 1 -1 2x3
+printHead 10 10
+drop 1 -1 1x3
+printHead 10 10
+drop 1 -1 1x1
+printHead 10 10
+drop 1 -1 2x2
+printHead 10 10
+drop 1 -1 1x2
+printHead 10 10
+drop 1 -1 2x1
+printHead 10 10
+

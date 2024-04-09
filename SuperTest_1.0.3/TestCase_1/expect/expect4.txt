@@ -1,0 +1,12 @@
+clear
+lenght 0
+push_front 2 : 2
+lenght 1
+push_back 1 : 2 1
+lenght 2
+push_front 2 : 2 2 1
+lenght 3
+push_back 1 : 2 2 1 1
+lenght 4
+clear
+lenght 0

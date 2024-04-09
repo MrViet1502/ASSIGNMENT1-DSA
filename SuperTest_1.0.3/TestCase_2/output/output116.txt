@@ -1,0 +1,163 @@
+push_back 2
+print : 2remove 2
+print : 2push_front 1
+print : 1 2subList 2 6 : print : 1 2reverse : 2 1print : 2 1get 5 : get(): Out of range
+print : 2 1insert 1 3
+print : 2 3 1push_front 5
+print : 5 2 3 1remove 2
+print : 5 2 1push_front 0
+print : 0 5 2 1push_front 10
+print : 10 0 5 2 1remove 4
+print : 10 0 5 2remove 1
+print : 10 5 2remove 3
+print : 10 5 2push_back -1
+print : 10 5 2 -1insert 5 7
+print : 10 5 2 -1push_front 9
+print : 9 10 5 2 -1reverse : -1 2 5 10 9print : -1 2 5 10 9clear
+print : reverse : print : push_back 0
+print : 0insert 4 2
+print : 0print : 0push_front -1
+print : -1 0push_back 7
+print : -1 0 7push_front 8
+print : 8 -1 0 7remove 4
+print : 8 -1 0 7push_back 2
+print : 8 -1 0 7 2remove 5
+print : 8 -1 0 7 2push_front 9
+print : 9 8 -1 0 7 2reverse : 2 7 0 -1 8 9print : 2 7 0 -1 8 9insert 3 10
+print : 2 7 0 10 -1 8 9subList 1 7 : 7 0 10 -1 8 9print : 2 7 0 10 -1 8 9reverse : 9 8 -1 10 0 7 2print : 9 8 -1 10 0 7 2remove 5
+print : 9 8 -1 10 0 2get 0 : 9
+print : 9 8 -1 10 0 2print : 9 8 -1 10 0 2print : 9 8 -1 10 0 2print : 9 8 -1 10 0 2remove 0
+print : 8 -1 10 0 2subList 3 5 : 0 2print : 8 -1 10 0 2print : 8 -1 10 0 2subList 0 2 : 8 -1print : 8 -1 10 0 2push_front 9
+print : 9 8 -1 10 0 2remove 5
+print : 9 8 -1 10 0push_back 4
+print : 9 8 -1 10 0 4push_back 0
+print : 9 8 -1 10 0 4 0push_front 1
+print : 1 9 8 -1 10 0 4 0get 2 : 8
+print : 1 9 8 -1 10 0 4 0print : 1 9 8 -1 10 0 4 0remove 5
+print : 1 9 8 -1 10 4 0insert 3 0
+print : 1 9 8 0 -1 10 4 0subList 2 3 : 8print : 1 9 8 0 -1 10 4 0push_front 5
+print : 5 1 9 8 0 -1 10 4 0get 5 : -1
+print : 5 1 9 8 0 -1 10 4 0push_back 9
+print : 5 1 9 8 0 -1 10 4 0 9push_back 0
+print : 5 1 9 8 0 -1 10 4 0 9 0insert 3 10
+print : 5 1 9 10 8 0 -1 10 4 0 9 0remove 0
+print : 1 9 10 8 0 -1 10 4 0 9 0insert 4 -1
+print : 1 9 10 8 -1 0 -1 10 4 0 9 0push_front 10
+print : 10 1 9 10 8 -1 0 -1 10 4 0 9 0push_back 6
+print : 10 1 9 10 8 -1 0 -1 10 4 0 9 0 6push_front 1
+print : 1 10 1 9 10 8 -1 0 -1 10 4 0 9 0 6insert 2 8
+print : 1 10 8 1 9 10 8 -1 0 -1 10 4 0 9 0 6remove 1
+print : 1 8 1 9 10 8 -1 0 -1 10 4 0 9 0 6reverse : 6 0 9 0 4 10 -1 0 -1 8 10 9 1 8 1print : 6 0 9 0 4 10 -1 0 -1 8 10 9 1 8 1remove 0
+print : 0 9 0 4 10 -1 0 -1 8 10 9 1 8 1print : 0 9 0 4 10 -1 0 -1 8 10 9 1 8 1insert 2 4
+print : 0 9 4 0 4 10 -1 0 -1 8 10 9 1 8 1insert 4 6
+print : 0 9 4 0 6 4 10 -1 0 -1 8 10 9 1 8 1reverse : 1 8 1 9 10 8 -1 0 -1 10 4 6 0 4 9 0print : 1 8 1 9 10 8 -1 0 -1 10 4 6 0 4 9 0get 7 : 0
+print : 1 8 1 9 10 8 -1 0 -1 10 4 6 0 4 9 0remove 1
+print : 1 1 9 10 8 -1 0 -1 10 4 6 0 4 9 0insert 5 10
+print : 1 1 9 10 8 10 -1 0 -1 10 4 6 0 4 9 0subList 1 2 : 1print : 1 1 9 10 8 10 -1 0 -1 10 4 6 0 4 9 0subList 3 9 : 10 8 10 -1 0 -1print : 1 1 9 10 8 10 -1 0 -1 10 4 6 0 4 9 0push_front 4
+print : 4 1 1 9 10 8 10 -1 0 -1 10 4 6 0 4 9 0insert 4 4
+print : 4 1 1 9 4 10 8 10 -1 0 -1 10 4 6 0 4 9 0push_back 1
+print : 4 1 1 9 4 10 8 10 -1 0 -1 10 4 6 0 4 9 0 1print : 4 1 1 9 4 10 8 10 -1 0 -1 10 4 6 0 4 9 0 1push_front -1
+print : -1 4 1 1 9 4 10 8 10 -1 0 -1 10 4 6 0 4 9 0 1remove 0
+print : 4 1 1 9 4 10 8 10 -1 0 -1 10 4 6 0 4 9 0 1push_back 9
+print : 4 1 1 9 4 10 8 10 -1 0 -1 10 4 6 0 4 9 0 1 9insert 5 2
+print : 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 0 4 9 0 1 9reverse : 9 1 0 9 4 0 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4print : 9 1 0 9 4 0 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4remove 4
+print : 9 1 0 9 0 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4subList 1 4 : 1 0 9print : 9 1 0 9 0 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4get 5 : 6
+print : 9 1 0 9 0 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4remove 0
+print : 1 0 9 0 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4insert 4 2
+print : 1 0 9 0 2 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4subList 3 9 : 0 2 6 4 10 -1print : 1 0 9 0 2 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4push_front 7
+print : 7 1 0 9 0 2 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4subList 4 8 : 0 2 6 4print : 7 1 0 9 0 2 6 4 10 -1 0 -1 10 8 10 2 4 9 1 1 4reverse : 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7print : 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7subList 2 3 : 1print : 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7push_front 7
+print : 7 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7push_front -1
+print : -1 7 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7push_front 9
+print : 9 -1 7 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7push_back 2
+print : 9 -1 7 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7 2push_front 0
+print : 0 9 -1 7 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7 2push_back -1
+print : 0 9 -1 7 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7 2 -1push_back -1
+print : 0 9 -1 7 4 1 1 9 4 2 10 8 10 -1 0 -1 10 4 6 2 0 9 0 1 7 2 -1 -1clear
+print : push_front 7
+print : 7push_back 2
+print : 7 2push_front 10
+print : 10 7 2remove 5
+print : 10 7 2push_back 3
+print : 10 7 2 3insert 0 -1
+print : -1 10 7 2 3remove 0
+print : 10 7 2 3remove 4
+print : 10 7 2 3push_back -1
+print : 10 7 2 3 -1remove 0
+print : 7 2 3 -1remove 3
+print : 7 2 3push_back 10
+print : 7 2 3 10insert 4 1
+print : 7 2 3 10 1push_front 0
+print : 0 7 2 3 10 1length : 6
+print : 0 7 2 3 10 1push_back -1
+print : 0 7 2 3 10 1 -1remove 3
+print : 0 7 2 10 1 -1push_front 0
+print : 0 0 7 2 10 1 -1remove 1
+print : 0 7 2 10 1 -1subList 4 8 : 1 -1print : 0 7 2 10 1 -1push_back 4
+print : 0 7 2 10 1 -1 4push_front 4
+print : 4 0 7 2 10 1 -1 4push_back 0
+print : 4 0 7 2 10 1 -1 4 0subList 4 9 : 10 1 -1 4 0print : 4 0 7 2 10 1 -1 4 0get 2 : 7
+print : 4 0 7 2 10 1 -1 4 0push_front 5
+print : 5 4 0 7 2 10 1 -1 4 0get 7 : -1
+print : 5 4 0 7 2 10 1 -1 4 0get 5 : 10
+print : 5 4 0 7 2 10 1 -1 4 0push_back 4
+print : 5 4 0 7 2 10 1 -1 4 0 4insert 1 2
+print : 5 2 4 0 7 2 10 1 -1 4 0 4push_front 5
+print : 5 5 2 4 0 7 2 10 1 -1 4 0 4insert 5 3
+print : 5 5 2 4 0 3 7 2 10 1 -1 4 0 4remove 0
+print : 5 2 4 0 3 7 2 10 1 -1 4 0 4remove 1
+print : 5 4 0 3 7 2 10 1 -1 4 0 4print : 5 4 0 3 7 2 10 1 -1 4 0 4push_back 0
+print : 5 4 0 3 7 2 10 1 -1 4 0 4 0push_back 5
+print : 5 4 0 3 7 2 10 1 -1 4 0 4 0 5push_front 7
+print : 7 5 4 0 3 7 2 10 1 -1 4 0 4 0 5push_front 8
+print : 8 7 5 4 0 3 7 2 10 1 -1 4 0 4 0 5push_front 7
+print : 7 8 7 5 4 0 3 7 2 10 1 -1 4 0 4 0 5push_front 5
+print : 5 7 8 7 5 4 0 3 7 2 10 1 -1 4 0 4 0 5remove 2
+print : 5 7 7 5 4 0 3 7 2 10 1 -1 4 0 4 0 5insert 3 9
+print : 5 7 7 9 5 4 0 3 7 2 10 1 -1 4 0 4 0 5insert 4 3
+print : 5 7 7 9 3 5 4 0 3 7 2 10 1 -1 4 0 4 0 5insert 5 2
+print : 5 7 7 9 3 2 5 4 0 3 7 2 10 1 -1 4 0 4 0 5remove 3
+print : 5 7 7 3 2 5 4 0 3 7 2 10 1 -1 4 0 4 0 5remove 5
+print : 5 7 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5remove 2
+print : 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5push_front 5
+print : 5 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5push_back 1
+print : 5 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1push_back 0
+print : 5 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 0subList 2 4 : 7 3print : 5 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 0reverse : 0 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5print : 0 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5push_back 1
+print : 0 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1push_back 1
+print : 0 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1push_front 1
+print : 1 0 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1get 10 : 10
+print : 1 0 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1insert 2 9
+print : 1 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1push_front -1
+print : -1 1 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1push_front 7
+print : 7 -1 1 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1remove 2
+print : 7 -1 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1print : 7 -1 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1push_front 2
+print : 2 7 -1 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1insert 0 10
+print : 10 2 7 -1 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1push_back 7
+print : 10 2 7 -1 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1 7insert 1 5
+print : 10 5 2 7 -1 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1 7insert 5 2
+print : 10 5 2 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1 7push_front -1
+print : -1 10 5 2 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1 7push_back 2
+print : -1 10 5 2 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1 7 2remove 0
+print : 10 5 2 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1 7 2insert 1 2
+print : 10 2 5 2 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1 7 2insert 0 9
+print : 9 10 2 5 2 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1 7 2remove 4
+print : 9 10 2 5 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 5 1 1 7 2reverse : 2 7 1 1 5 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9print : 2 7 1 1 5 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9push_front -1
+print : -1 2 7 1 1 5 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9get 7 : 7
+print : -1 2 7 1 1 5 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9remove 5
+print : -1 2 7 1 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9remove 1
+print : -1 7 1 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9insert 2 0
+print : -1 7 0 1 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9subList 3 8 : 1 1 5 7 3print : -1 7 0 1 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9push_front 8
+print : 8 -1 7 0 1 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9length : 33
+print : 8 -1 7 0 1 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9print : 8 -1 7 0 1 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9remove 1
+print : 8 7 0 1 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9push_back 5
+print : 8 7 0 1 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5insert 4 8
+print : 8 7 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5push_front 2
+print : 2 8 7 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5insert 1 6
+print : 2 6 8 7 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5push_front 2
+print : 2 2 6 8 7 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5remove 1
+print : 2 6 8 7 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5insert 0 8
+print : 8 2 6 8 7 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5insert 0 0
+print : 0 8 2 6 8 7 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5push_front 0
+print : 0 0 8 2 6 8 7 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5remove 3
+print : 0 0 8 6 8 7 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5remove 5
+print : 0 0 8 6 8 0 1 8 1 5 7 3 2 4 0 3 7 2 10 1 -1 4 0 4 0 5 1 9 0 2 -1 7 5 2 10 9 5reverse : 5 9 10 2 5 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 1 8 1 0 8 6 8 0 0print : 5 9 10 2 5 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 1 8 1 0 8 6 8 0 0push_back 1
+print : 5 9 10 2 5 7 -1 2 0 9 1 5 0 4 0 4 -1 1 10 2 7 3 0 4 2 3 7 5 1 8 1 0 8 6 8 0 0 1

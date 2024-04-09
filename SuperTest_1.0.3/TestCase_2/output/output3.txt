@@ -1,0 +1,16 @@
+insert 0 1
+insert 1 0
+insert 2 2
+insert 2 3
+insert 1 4
+insert 0 7
+print : 7 1 4 0 3 2remove -1
+remove 6
+print : 7 1 4 0 3 2remove 0
+print : 1 4 0 3 2remove 4
+print : 1 4 0 3remove 2
+print : 1 4 3remove 1
+print : 1 3remove 1
+print : 1remove 0
+insert 0 1
+print : 1

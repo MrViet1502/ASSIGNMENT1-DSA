@@ -1,0 +1,19 @@
+insert 2 1 
+insert -1 0
+print
+insert 0 1
+print
+insert 0 0
+print
+insert 2 2
+print
+insert 2 3
+print
+insert 1 4
+print
+length
+insert 0 7
+print
+clear
+print
+length

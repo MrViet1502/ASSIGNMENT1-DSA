@@ -1,0 +1,400 @@
+remove 0
+print
+remove 5
+print
+push_back 5
+print
+push_front 0
+print
+push_front 6
+print
+remove 0
+print
+push_front 1
+print
+push_front 3
+print
+get 5
+print
+get 3
+print
+subList 2  8
+print
+insert 0 5
+print
+push_back -1
+print
+get 7
+print
+insert 1 6
+print
+remove 3
+print
+reverse
+print
+insert 4 5
+print
+remove 4
+print
+remove 1
+print
+subList 1  7
+print
+push_back 8
+print
+insert 4 3
+print
+insert 0 0
+print
+insert 2 9
+print
+push_back 5
+print
+insert 5 9
+print
+remove 1
+print
+remove 1
+print
+push_back 2
+print
+length
+print
+insert 3 7
+print
+length
+print
+insert 4 8
+print
+insert 0 2
+print
+insert 0 10
+print
+distanceEuclidean 5  3 5 10 8 10
+print
+get 9
+print
+get 0
+print
+remove 0
+print
+push_front 0
+print
+remove 3
+print
+length
+print
+push_back 1
+print
+remove 2
+print
+remove 5
+print
+push_back 2
+print
+push_back 5
+print
+insert 2 4
+print
+push_back 9
+print
+remove 2
+print
+length
+print
+remove 5
+print
+remove 2
+print
+remove 5
+print
+remove 4
+print
+insert 3 8
+print
+push_back -1
+print
+insert 2 4
+print
+insert 5 -1
+print
+distanceEuclidean 3  7 1 10
+print
+push_front 2
+print
+push_back -1
+print
+remove 5
+print
+push_back 8
+print
+push_back 1
+print
+insert 0 7
+print
+insert 4 5
+print
+length
+print
+push_front 5
+print
+insert 5 10
+print
+push_front 10
+print
+insert 0 0
+print
+push_front 7
+print
+subList 5  7
+print
+insert 0 0
+print
+clear
+print
+subList 3  9
+print
+push_front 1
+print
+get 8
+print
+push_front 1
+print
+push_front 9
+print
+push_front 0
+print
+push_back 4
+print
+reverse
+print
+push_back 2
+print
+subList 0  5
+print
+subList 5  9
+print
+push_front 3
+print
+remove 1
+print
+remove 0
+print
+remove 5
+print
+insert 3 2
+print
+push_front 4
+print
+insert 5 1
+print
+distanceEuclidean 5  6 1 1 10 2
+print
+push_back 3
+print
+push_back 8
+print
+remove 0
+print
+get 0
+print
+insert 3 4
+print
+get 1
+print
+remove 2
+print
+subList 5  9
+print
+insert 1 2
+print
+insert 4 0
+print
+subList 2  6
+print
+push_back 0
+print
+insert 0 5
+print
+distanceEuclidean 6  2 6 4 5 5 7
+print
+get 5
+print
+insert 1 8
+print
+subList 2  5
+print
+insert 5 4
+print
+get 6
+print
+insert 0 9
+print
+push_front 2
+print
+subList 4  6
+print
+push_front 7
+print
+push_back 3
+print
+push_front 5
+print
+push_front 0
+print
+reverse
+print
+reverse
+print
+remove 5
+print
+push_front 2
+print
+remove 2
+print
+push_front 1
+print
+push_back 3
+print
+get 1
+print
+insert 0 -1
+print
+push_front 6
+print
+remove 5
+print
+push_front 0
+print
+push_back 4
+print
+subList 1  7
+print
+subList 1  2
+print
+subList 2  8
+print
+reverse
+print
+get 1
+print
+remove 5
+print
+get 1
+print
+push_back 6
+print
+insert 3 6
+print
+distanceEuclidean 6  10 4 5 2 10 8
+print
+push_front 1
+print
+get 8
+print
+push_back 10
+print
+subList 3  9
+print
+insert 2 3
+print
+push_back 0
+print
+distanceEuclidean 5  3 2 8 6 1
+print
+push_front 10
+print
+remove 4
+print
+remove 2
+print
+push_back 3
+print
+subList 2  4
+print
+push_back 8
+print
+remove 3
+print
+get 9
+print
+push_front 3
+print
+push_back 2
+print
+clear
+print
+remove 4
+print
+insert 5 10
+print
+remove 2
+print
+get 0
+print
+push_front 3
+print
+push_front 3
+print
+insert 2 7
+print
+push_back 2
+print
+remove 5
+print
+insert 1 7
+print
+get 2
+print
+get 0
+print
+push_front 3
+print
+push_front 8
+print
+push_back 1
+print
+push_front 0
+print
+remove 3
+print
+push_back 8
+print
+push_back 2
+print
+insert 2 7
+print
+push_back -1
+print
+remove 0
+print
+push_front -1
+print
+reverse
+print
+subList 2  4
+print
+remove 5
+print
+reverse
+print
+remove 3
+print
+push_back 9
+print
+get 5
+print
+push_front 10
+print
+get 9
+print
+reverse
+print
+length
+print
+insert 2 10
+print
+push_front 9
+print
+push_back 0
+print

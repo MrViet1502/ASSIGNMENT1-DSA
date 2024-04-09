@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "format": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp",
+        "xutility": "cpp",
+        "ostream": "cpp"
+    }
+}

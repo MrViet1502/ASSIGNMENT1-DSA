@@ -1,0 +1,149 @@
+Line 3 drop 1 16 1x1 : true
+Line 4 drop 1 9 1x1 : false
+Line 5 drop 1 8 1x1 : false
+Line 6 drop 0 19 1x1 : true
+Line 7 drop 0 23 1x1 : true
+Line 8 drop 0 25 1x1 : true
+Line 9 drop 0 9 1x1 : true
+Line 10 drop 1 29 1x1 : false
+Line 11 drop -1 11 1x1 : false
+Line 12 drop 1 15 1x1 : false
+Line 13 getShape : 33 2
+Line 14 columns : label 1x2Line 15 printHead 100 100
+label 1x2
+3 45
+1 65
+6 65
+1 12
+2 23
+7 78
+2 6
+2 60
+1 15
+6 31
+8 84
+8 16
+6 66
+2 92
+5 70
+5 92
+6 97
+1 89
+0 44
+1 44
+9 50
+6 62
+6 62
+1 29
+5 75
+3 20
+5 1
+7 68
+2 28
+9 16
+1 84
+7 45
+9 21Line X_train : 
+1x2
+45Line X_test : 
+1x2
+65
+65
+12
+23
+78
+6
+60
+15
+31
+84
+16
+66
+92
+70
+92
+97
+89
+44
+44
+50
+62
+62
+29
+75
+20
+1
+68
+28
+16
+84
+45
+21Line y_train : 
+label
+3Line y_test : 
+label
+1
+6
+1
+2
+7
+2
+2
+1
+6
+8
+8
+6
+2
+5
+5
+6
+1
+0
+1
+9
+6
+6
+1
+5
+3
+5
+7
+2
+9
+1
+7
+9Line y_predict : 
+label
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3Accuracy: 0.03125

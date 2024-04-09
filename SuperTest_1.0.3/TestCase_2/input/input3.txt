@@ -1,0 +1,24 @@
+insert 0 1
+insert 1 0
+insert 2 2
+insert 2 3
+insert 1 4
+insert 0 7
+print
+remove -1
+remove 6
+print
+remove 0
+print
+remove 4
+print
+remove 2
+print
+remove 1
+print
+remove 1
+print
+remove 0
+insert 0 1
+print
+

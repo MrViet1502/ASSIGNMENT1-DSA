@@ -1,0 +1,14 @@
+k = 14
+test_size = 0.11
+drop 0 30 1x3 
+drop -1 96 1x2 
+drop 0 39 1x2 
+drop -2 66 1x1 
+drop 0 53 1x2 
+drop 0 0 1x2 
+drop -2 58 1x3 
+drop 0 58 1x1 
+drop 1 99 1x2 
+getShape
+columns
+printHead 200 200

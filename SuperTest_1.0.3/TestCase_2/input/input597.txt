@@ -1,0 +1,12 @@
+k = 9
+test_size = 0.65
+drop 0 1 1x1 
+drop -2 14 1x1 
+drop -1 7 1x1 
+drop 1 15 1x1 
+drop 0 3 1x1 
+drop 0 16 1x1 
+drop 1 11 1x1 
+getShape
+columns
+printHead 100 100

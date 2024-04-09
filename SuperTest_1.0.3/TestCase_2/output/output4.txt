@@ -1,0 +1,14 @@
+insert 0 1
+insert 1 0
+insert 2 2
+insert 2 3
+insert 1 4
+insert 0 7
+print : 7 1 4 0 3 2get 0 : 7
+get -1 : get(): Out of range
+get 6 : get(): Out of range
+get 5 : 2
+get 4 : 3
+get 3 : 0
+get 2 : 4
+get 1 : 1

@@ -1,0 +1,400 @@
+remove 4
+print
+remove 5
+print
+insert 0 10
+print
+insert 5 5
+print
+push_back -1
+print
+subList 0  4
+print
+get 5
+print
+reverse
+print
+distanceEuclidean 7  5 7 2 1 1 5 5
+print
+push_front 9
+print
+remove 1
+print
+remove 1
+print
+push_front 8
+print
+insert 1 -1
+print
+reverse
+print
+push_front 7
+print
+remove 3
+print
+push_front 6
+print
+insert 4 1
+print
+reverse
+print
+push_back 4
+print
+remove 1
+print
+remove 5
+print
+push_front 4
+print
+distanceEuclidean 8  9 5 6 8 2 9 4 9
+print
+push_back 8
+print
+reverse
+print
+push_back 7
+print
+insert 2 5
+print
+push_front 6
+print
+reverse
+print
+subList 4  10
+print
+remove 5
+print
+remove 4
+print
+insert 3 3
+print
+push_back 1
+print
+remove 0
+print
+push_front 3
+print
+reverse
+print
+insert 4 9
+print
+push_front 1
+print
+push_front 4
+print
+get 2
+print
+subList 5  10
+print
+push_back 7
+print
+push_back 8
+print
+insert 2 -1
+print
+push_front 7
+print
+remove 5
+print
+distanceEuclidean 3  9 1 5
+print
+remove 2
+print
+push_front 2
+print
+insert 2 2
+print
+reverse
+print
+push_back 7
+print
+push_front 2
+print
+push_front 10
+print
+insert 4 6
+print
+push_back 7
+print
+reverse
+print
+remove 4
+print
+remove 5
+print
+push_front 10
+print
+insert 1 6
+print
+push_back 7
+print
+push_back 5
+print
+insert 5 2
+print
+push_front 8
+print
+remove 3
+print
+subList 3  8
+print
+insert 5 2
+print
+subList 5  10
+print
+push_front 2
+print
+remove 5
+print
+get 8
+print
+remove 5
+print
+push_back 5
+print
+get 0
+print
+remove 2
+print
+push_front 10
+print
+insert 5 0
+print
+remove 4
+print
+remove 3
+print
+insert 0 0
+print
+remove 1
+print
+clear
+print
+remove 2
+print
+reverse
+print
+push_front 7
+print
+insert 0 6
+print
+insert 5 0
+print
+reverse
+print
+remove 1
+print
+push_front 1
+print
+get 6
+print
+get 3
+print
+remove 3
+print
+push_back 9
+print
+push_front 1
+print
+remove 3
+print
+push_front 5
+print
+remove 4
+print
+remove 0
+print
+reverse
+print
+get 6
+print
+remove 1
+print
+distanceEuclidean 10  3 5 10 4 9 8 3 2 10 3
+print
+push_back 4
+print
+remove 5
+print
+remove 5
+print
+distanceEuclidean 6  6 6 4 6 2 6
+print
+push_front 5
+print
+remove 0
+print
+push_front 7
+print
+remove 0
+print
+push_front -1
+print
+push_back 0
+print
+remove 0
+print
+subList 2  4
+print
+insert 1 8
+print
+remove 4
+print
+reverse
+print
+push_back 10
+print
+push_front -1
+print
+push_front -1
+print
+remove 2
+print
+insert 2 7
+print
+push_back 4
+print
+push_front 6
+print
+push_front 0
+print
+push_back 8
+print
+subList 1  6
+print
+remove 2
+print
+insert 3 0
+print
+remove 2
+print
+get 8
+print
+push_front 10
+print
+get 9
+print
+remove 2
+print
+subList 0  3
+print
+insert 5 2
+print
+reverse
+print
+push_front 9
+print
+get 1
+print
+push_front 2
+print
+insert 2 -1
+print
+get 2
+print
+insert 5 1
+print
+insert 1 8
+print
+length
+print
+push_front 8
+print
+get 9
+print
+remove 5
+print
+push_back 10
+print
+get 7
+print
+distanceEuclidean 4  8 1 9 6
+print
+get 8
+print
+push_back 6
+print
+insert 2 10
+print
+push_front 8
+print
+get 1
+print
+distanceEuclidean 1  2
+print
+insert 5 3
+print
+push_front 4
+print
+reverse
+print
+length
+print
+get 8
+print
+insert 5 8
+print
+push_front 2
+print
+reverse
+print
+push_front 9
+print
+push_front -1
+print
+push_back 7
+print
+remove 0
+print
+length
+print
+reverse
+print
+remove 2
+print
+push_back 2
+print
+reverse
+print
+remove 5
+print
+insert 3 5
+print
+insert 2 8
+print
+push_back 9
+print
+remove 4
+print
+remove 0
+print
+distanceEuclidean 9  10 4 9 4 9 8 1 4 5
+print
+push_front 2
+print
+insert 3 -1
+print
+get 7
+print
+reverse
+print
+remove 5
+print
+push_back -1
+print
+remove 5
+print
+push_front 5
+print
+push_back 5
+print
+subList 2  4
+print
+push_front 7
+print
+clear
+print
+push_back 4
+print
+distanceEuclidean 4  7 2 6 2
+print
